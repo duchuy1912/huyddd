@@ -1,0 +1,71 @@
+.logo123 {
+    width: 10%;
+  }
+.kfcbox {
+    width: 100%;
+    height: 35px;
+    background-color: rgb(157, 37, 37);
+    font-size: 20px;
+    color: aliceblue;
+}
+.gioithieu {
+  width: 100%;
+  height: 60%;
+  background-color: rgb(157, 37, 37);
+}
+.gioithieu2 {
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(157, 37, 37);
+}
+.chu {
+  font-size: 20px;
+  color: red;
+  
+}
+.conchu {
+  color: #333;
+  margin: 15px;
+}
+.gt1 {
+  text-align: center;
+  color: aliceblue;
+}
+.gta {
+  padding-left: 100px;
+}
+.gt2 {
+  font-size: 20px;
+  color: azure;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.phattrien {
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(157, 37, 37);
+}
+.pt1 {
+  text-align: center;
+  color: aliceblue;
+}
+.pt3 {
+  font-size: 15px;
+  color: aliceblue;
+  
+}
+html,body {
+  margin: 0;
+}
+.hinhanh {
+  width: 100%;
+}
+.bg1 {
+  text-align: center;
+  color: aliceblue;
+}
+.bgbox {
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(157, 37, 37);
+}
