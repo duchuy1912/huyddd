@@ -69,3 +69,21 @@ html,body {
   height: 100vh;
   background-color: rgb(157, 37, 37);
 }
+.bang2 {
+  color: black;
+  font-size: 25px;
+  
+}
+.km1 {
+  color: aliceblue;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.km2 {
+  color: aliceblue;
+  font-size: 14px;
+}
+.akm {
+  width: 100%;
+  
+}
